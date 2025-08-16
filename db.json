@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Ana",
+      "email": "ana@email.com",
+      "senha": "123456"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Caderno",
+      "preco": 12.5,
+      "codigoBarras": "ABC123"
+    },
+    {
+      "id": 2,
+      "nome": "Caneta",
+      "preco": 2.99,
+      "codigoBarras": "DEF456"
+    }
+  ]
+}
